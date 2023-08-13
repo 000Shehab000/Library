@@ -1,0 +1,22 @@
+.bookCard{
+    border-color: #806e5f;
+    background-color: #d2cfcf;
+}
+.bookImage{
+   width: 242px;
+   height: 350px;
+}
+.infoButton{
+    color: white;
+    background-color: #806e5f;
+    border-color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bookTitle{
+    color: #806e5f;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.infoText{
+    margin: 5px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

@@ -1,0 +1,13 @@
+.booksHomeList{
+    margin: auto;
+    padding: 30px 100px 30px 100px ; 
+}
+.myBooksHomeList{
+    margin: auto;
+    padding: 10px 100px 30px 100px ; 
+}
+.book{
+    padding: 10px;
+    width: 20%;
+    height: 20%;
+}

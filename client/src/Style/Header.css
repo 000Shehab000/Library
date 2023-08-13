@@ -1,0 +1,21 @@
+.Navbar{
+    background-color: #806e5f;
+}
+.NavbarText{
+    color: white;
+    background-color: #806e5f;
+    border-color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.searchBar{
+    width: 45%;
+    
+}
+.NavbarLogo{
+    color: white;
+    background-color: #806e5f;
+    border-color:white;
+    font-size:xx-large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
